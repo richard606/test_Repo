@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a77a80f291144ed4888ce1b051846f0b, type: 3}
+  m_Name: Ant
+  m_EditorClassIdentifier: 
+  cost: 100
+  name: Ant
+  description: 'A nomal ant '
+  sprt_image: {fileID: 21300000, guid: c075984e7d8027247b6a172abab1edee, type: 3}
+  Ob_item: {fileID: 1908898713589448078, guid: 28e45cd561d6c9c46818ecc1cbb9640f, type: 3}
+  quantity: 1
+  type: 1
